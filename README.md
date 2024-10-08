@@ -1,7 +1,9 @@
 # Home_Value_Prediction-
 ## Home Values Prediction using Machine Learning Techniques
 
-(Para la versión en español, consulta README_spanish.md)
+
+<p style="color:blue;">Para la versión en español, consulte <a href="README_es.md">README_spanish.md</a></p>
+
 
 ### Project Description.
 This project focuses on predicting house prices using Machine Learning techniques. It uses data that includes information about house features such as square footage, number of bedrooms and bathrooms, neighborhood quality, among others.
