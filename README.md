@@ -1,8 +1,7 @@
 # Home_Value_Prediction-
 ## Home Values Prediction using Machine Learning Techniques
 
-
-<p style="color:blue;">Para la versión en español, consulte <a href="README_es.md">README_spanish.md</a></p>
+(Para la versión en español, consulte README_Spanish.md)
 
 
 ### Project Description.
